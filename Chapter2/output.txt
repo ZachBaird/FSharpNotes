@@ -1,0 +1,2 @@
+Hello, my name is Zach and I like F#! And I'm learning functional programming!
+14

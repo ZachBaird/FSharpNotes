@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Chapter2": {
+      "commandName": "Project",
+      "commandLineArgs": "zach baird dev"
+    }
+  }
+}
