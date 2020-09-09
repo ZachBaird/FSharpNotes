@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="composition.fsx" />
+    <None Include="petrol.fsx" />
+    <None Include="pipes.fsx" />
+    <None Include="writetofile.fsx" />
+    <None Include="datewrapperfunctions.fsx" />
+    <None Include="tupleandcurriedfunctions.fsx" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+</Project>
