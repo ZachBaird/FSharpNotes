@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="mathpipe.fsx" />
     <None Include="composition.fsx" />
     <None Include="petrol.fsx" />
     <None Include="pipes.fsx" />
